@@ -1,4 +1,4 @@
-##Problem1
+## Compare the power of Bonferroni, Holm, Hochberg and Hommel in multiple hypothesis testing
 m = 100
 p1 = 0.2
 power_bonf = vector()
@@ -56,4 +56,4 @@ bonfmean
 holmmean
 hochmean
 hommmean
-#We can see that their power from weak to strong is: bonferroni, holm, hochberg, hommel
+# We can see that their power from weak to strong is: bonferroni, holm, hochberg, hommel
